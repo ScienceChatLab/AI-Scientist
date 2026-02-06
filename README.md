@@ -5,4 +5,4 @@
 以下是目前已发布的手册，点击链接即可查看或下载：
 
 1.  **[Gemini科研手册指南.pdf](https://sciencechatlab.github.io/AI-Scientist/Gemini%E7%A7%91%E7%A0%94%E6%89%8B%E5%86%8C%E6%8C%87%E5%8D%97.pdf)** - 关于如何使用Gemini进行科研的详细指南。
-2.  **[爆款AI漫剧教学手册.pdf]((https://sciencechatlab.github.io/AI-Scientist/%E7%88%86%E6%AC%BEAI%E6%BC%AB%E5%89%A7%E6%95%99%E5%AD%A6%E6%89%8B%E5%86%8C.pdf))** - 关于如何制作AI漫剧的全流程拆解指南。
+2.  **[爆款AI漫剧教学手册.pdf](https://sciencechatlab.github.io/AI-Scientist/%E7%88%86%E6%AC%BEAI%E6%BC%AB%E5%89%A7%E6%95%99%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)** - 关于如何制作AI漫剧的全流程拆解指南。
